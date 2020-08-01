@@ -22,10 +22,13 @@
 }
 
 .checkoutProduct__info>button{
-    background: rgb(231, 49, 49);
+    background:red;
     border: 1px solid;
     margin-top: 10px;
     border-color: black;
     color: black;
     cursor: pointer;
+}
+.checkoutProduct__info>button:hover{
+    box-shadow: 0 5px 50px 0 #eb0505 inset, 0 5px 50px 0 rgb(255, 0, 0);
 }

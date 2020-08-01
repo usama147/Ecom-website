@@ -11,7 +11,7 @@ function Home() {
             <div className="home__row">
                 <Product
                     id="1"
-                    title="iBUYPOWER Gaming PC Computer Desktop Element 9260 (Intel Core i7-9700F 3.0Ghz, NVIDIA GeForce GTX 1660 Ti 6GB, 16GB DDR4, 240GB SSD, 1TB HDD, WiFi & Windows 10 Home) Black"
+                    title="Gaming Pc"
                     price="16 448,45"
                     rating={4}
                     image="https://m.media-amazon.com/images/I/81YUHsnzj1L._AC_AA180_.jpg">
@@ -20,7 +20,7 @@ function Home() {
 
                 <Product
                     id="2"
-                    title="Acer Nitro 5 Gaming Laptop, 9th Gen Intel Core i5-9300H, NVIDIA GeForce GTX 1650, 15.6 Full HD IPS Display, 8GB DDR4, 256GB NVMe SSD, WiFi 6, Waves MaxxAudio, Backlit Keyboard, AN515-54-5812"
+                    title="Acer Nitro 5 Gaming Laptop"
                     price="13981,18"
                     rating={4}
                     image="https://m.media-amazon.com/images/I/71s1LRpaprL._AC_UY327_FMwebp_QL65_.jpg">
@@ -31,7 +31,7 @@ function Home() {
             <div className="home__row">
                 <Product
                     id="3"
-                    title="Sceptre 30-inch Curved Gaming Monitor 21:9 2560x1080 Ultra Wide Ultra Slim HDMI DisplayPort up to 200Hz Build-in Speakers, Metal Black (C305B-200UN)"
+                    title="Sceptre 30-inch Curved Gaming Monitor"
                     price="4589,12"
                     rating={4}
                     image="https://m.media-amazon.com/images/I/81Wt3h7-V2L._AC_UY327_FMwebp_QL65_.jpg">
@@ -40,9 +40,8 @@ function Home() {
 
                 <Product
                     id="4"
-                    title="TEAMGROUP T-Force Delta RGB 32GB (2x16GB) 3200MHz (PC4-25600) CL 16 Desktop Gaming PC Memory Module Ram Upgrade 288-Pin DDR4 SDRAM TF4D432G3200HC16CDC01 - White"
-                    price="2138,13
-                    (Price May vary from selected color.)"
+                    title="TEAMGROUP T-Force Delta RGB 32GB RAM"
+                    price="2138,13"
                     rating={4}
                     image="https://m.media-amazon.com/images/I/61QQMg72PAL._AC_UY327_QL65_.jpg">
         
@@ -50,7 +49,7 @@ function Home() {
 
                 <Product
                     id="5"
-                    title="BENGOO G9000 Stereo Gaming Headset for PS4, PC, Xbox One Controller, Noise Cancelling Over Ear Headphones with Mic, LED Light, Bass Surround, Soft Memory Earmuffs for Laptop Mac Nintendo PS3 Games"
+                    title="Gaming Headset for PS4, PC, Xbox One "
                     price="639,68"
                     rating={3}
                     image="https://m.media-amazon.com/images/I/61NZPCYSeVL._AC_UY327_QL65_.jpg">
@@ -62,7 +61,7 @@ function Home() {
                 <Product
                     id="6"
                     title="
-                    AMD Ryzen 7 3700X 8-Core, 16-Thread Unlocked Desktop Processor with Wraith Prism LED Cooler."
+                    Desktop Processor."
                     price={12345}
                     rating={5}
                     image="https://images-na.ssl-images-amazon.com/images/I/51wpN1SESrL._AC_US240_FMwebp_QL65_.jpg">

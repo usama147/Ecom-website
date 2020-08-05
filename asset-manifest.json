@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Ecom-website/static/css/main.a5fbe0c1.chunk.css",
-    "main.js": "/Ecom-website/static/js/main.f0c5b94f.chunk.js",
-    "main.js.map": "/Ecom-website/static/js/main.f0c5b94f.chunk.js.map",
+    "main.css": "/Ecom-website/static/css/main.429111fb.chunk.css",
+    "main.js": "/Ecom-website/static/js/main.5bc2243e.chunk.js",
+    "main.js.map": "/Ecom-website/static/js/main.5bc2243e.chunk.js.map",
     "runtime-main.js": "/Ecom-website/static/js/runtime-main.c1f58cd8.js",
     "runtime-main.js.map": "/Ecom-website/static/js/runtime-main.c1f58cd8.js.map",
     "static/js/2.2a943ffe.chunk.js": "/Ecom-website/static/js/2.2a943ffe.chunk.js",
     "static/js/2.2a943ffe.chunk.js.map": "/Ecom-website/static/js/2.2a943ffe.chunk.js.map",
     "index.html": "/Ecom-website/index.html",
-    "precache-manifest.bafe5e7136212b8441001d363f07a11c.js": "/Ecom-website/precache-manifest.bafe5e7136212b8441001d363f07a11c.js",
+    "precache-manifest.c75d0686c86cf1001422907b3d2043e8.js": "/Ecom-website/precache-manifest.c75d0686c86cf1001422907b3d2043e8.js",
     "service-worker.js": "/Ecom-website/service-worker.js",
-    "static/css/main.a5fbe0c1.chunk.css.map": "/Ecom-website/static/css/main.a5fbe0c1.chunk.css.map",
+    "static/css/main.429111fb.chunk.css.map": "/Ecom-website/static/css/main.429111fb.chunk.css.map",
     "static/js/2.2a943ffe.chunk.js.LICENSE.txt": "/Ecom-website/static/js/2.2a943ffe.chunk.js.LICENSE.txt",
     "static/media/download.png": "/Ecom-website/static/media/download.64dca5ae.png",
     "static/media/logo.png": "/Ecom-website/static/media/logo.c8112d8c.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.c1f58cd8.js",
     "static/js/2.2a943ffe.chunk.js",
-    "static/css/main.a5fbe0c1.chunk.css",
-    "static/js/main.f0c5b94f.chunk.js"
+    "static/css/main.429111fb.chunk.css",
+    "static/js/main.5bc2243e.chunk.js"
   ]
 }
